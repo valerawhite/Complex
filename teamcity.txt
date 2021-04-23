@@ -1,0 +1,22 @@
+
+##teamcity[testCount count='4' flowId='2368']
+
+##teamcity[testSuiteStarted name='ComplexTest' locationHint='php_qn://C:\wamp64\www\test\ComplexTest.php::\ComplexTest' flowId='2368']
+
+##teamcity[testStarted name='testgetSumm' locationHint='php_qn://C:\wamp64\www\test\ComplexTest.php::\ComplexTest::testgetSumm' flowId='2368']
+
+##teamcity[testFinished name='testgetSumm' duration='7' flowId='2368']
+
+##teamcity[testStarted name='testgetMinus' locationHint='php_qn://C:\wamp64\www\test\ComplexTest.php::\ComplexTest::testgetMinus' flowId='2368']
+
+##teamcity[testFinished name='testgetMinus' duration='0' flowId='2368']
+
+##teamcity[testStarted name='testgetComposition' locationHint='php_qn://C:\wamp64\www\test\ComplexTest.php::\ComplexTest::testgetComposition' flowId='2368']
+
+##teamcity[testFinished name='testgetComposition' duration='0' flowId='2368']
+
+##teamcity[testStarted name='testgetDivision' locationHint='php_qn://C:\wamp64\www\test\ComplexTest.php::\ComplexTest::testgetDivision' flowId='2368']
+
+##teamcity[testFinished name='testgetDivision' duration='0' flowId='2368']
+
+##teamcity[testSuiteFinished name='ComplexTest' flowId='2368']

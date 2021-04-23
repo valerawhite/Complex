@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+  <test className="ComplexTest" methodName="testgetSumm" prettifiedClassName="Complex" prettifiedMethodName="Get summ" status="0" time="0.0070795" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="ComplexTest" methodName="testgetMinus" prettifiedClassName="Complex" prettifiedMethodName="Get minus" status="0" time="0.0001408" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="ComplexTest" methodName="testgetComposition" prettifiedClassName="Complex" prettifiedMethodName="Get composition" status="0" time="0.0001834" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+  <test className="ComplexTest" methodName="testgetDivision" prettifiedClassName="Complex" prettifiedMethodName="Get division" status="0" time="0.0001875" size="-1" groups="default">
+    <group name="default"/>
+  </test>
+</tests>
